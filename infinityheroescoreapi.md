@@ -226,7 +226,7 @@ The interface for managing plugin-specific data within a player's profile.
   ```
 ---
 
-## 4. DomainKey
+## 5. DomainKey
 
 **Package:** `de.ifheroes.core.profile.levelstructur`
 
