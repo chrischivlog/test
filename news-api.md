@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "News API"
-parent: "developers"
+parent: "Developers Docs"
 nav_order: 1
 ---
 ## News Endpoint
