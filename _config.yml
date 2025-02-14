@@ -2,7 +2,7 @@ title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-logo: "https://ifheroes.de/assets/img/logo_mediakit_normal.png"
+logo: "/assets/images/logo_mediakit_normal.png"
 
 url: https://just-the-docs.github.io
 
