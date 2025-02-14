@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Hauptseite"
+title: "Developers Docs"
 nav_order: 1
 has_children: true
 ---
 
-**lol**
+**this is the dev zone**
