@@ -13,11 +13,11 @@ The InfinityHeroes Core API provides a set of interfaces and classes to manage p
 
 ## Table of Contents
 
-1. [Accessing the API](#accessing-the-api)
-2. [InfinityHeroesCoreAPI](#infinityheroescoreapi)
-3. [HeroProfile](#heroprofile)
-4. [PluginData](#plugindata)
-5. [DomainKey](#domainkey)
+1. [Accessing the API](#1-accessing-the-api)
+2. [InfinityHeroesCoreAPI](#2-infinityheroescoreapi)
+3. [HeroProfile](#3-heroprofile)
+4. [PluginData](#4-plugindata)
+5. [DomainKey](#5-domainkey)
 
 
 
