@@ -1,5 +1,7 @@
 ---
 layout: default
-title: "Titel der neuen Seite"
-nav_order: 2
+title: "Hauptseite"
+nav_order: 1
+has_children: true
 ---
+
